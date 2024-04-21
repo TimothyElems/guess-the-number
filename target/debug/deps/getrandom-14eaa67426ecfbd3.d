@@ -1,0 +1,10 @@
+/Users/timmy/Desktop/senior_dev/2024.2/prodev/projects/random/guess_num/target/debug/deps/libgetrandom-14eaa67426ecfbd3.rmeta: /Users/timmy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.14/src/lib.rs /Users/timmy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.14/src/error.rs /Users/timmy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.14/src/util.rs /Users/timmy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.14/src/error_impls.rs /Users/timmy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.14/src/util_libc.rs /Users/timmy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.14/src/macos.rs
+
+/Users/timmy/Desktop/senior_dev/2024.2/prodev/projects/random/guess_num/target/debug/deps/getrandom-14eaa67426ecfbd3.d: /Users/timmy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.14/src/lib.rs /Users/timmy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.14/src/error.rs /Users/timmy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.14/src/util.rs /Users/timmy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.14/src/error_impls.rs /Users/timmy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.14/src/util_libc.rs /Users/timmy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.14/src/macos.rs
+
+/Users/timmy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.14/src/lib.rs:
+/Users/timmy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.14/src/error.rs:
+/Users/timmy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.14/src/util.rs:
+/Users/timmy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.14/src/error_impls.rs:
+/Users/timmy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.14/src/util_libc.rs:
+/Users/timmy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.14/src/macos.rs:
